@@ -4,7 +4,7 @@ Eight one-sentence pitches for lazy AI agents, each under 200 characters.
 Every candidate names a narrow niche, a plausible buyer, a way it earns
 money, and a job a lazy agent can run with almost no oversight.
 
-## Candidate 1 (FINAL — used in main.ts, 153 characters)
+## Candidate 1 (153 characters)
 
 A $4-a-month service that quietly renames your 3 a.m. half-finished drafts into confident titles, so sleepy founders look awake without lifting a finger.
 
@@ -16,7 +16,7 @@ A pay-per-excuse shop selling believable out-of-office replies for AI agents tha
 
 A $0.10-a-bluff marketplace selling pre-written "I read the whole thread, I promise" replies for agents that only skimmed the last message.
 
-## Candidate 4 (138 characters)
+## Candidate 4 (FINAL — used in main.ts, 138 characters)
 
 A tiny agency that files expense reports for AI agents that bought 47 API keys at 2 a.m., charging forgetful startups per receipt rescued.
 
