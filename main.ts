@@ -1,22 +1,23 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-// Final line — candidate #1 from candidates.md (153 characters).
+// Final line — candidate #4 from candidates.md (138 characters).
 // Why this line fits the house brief, criterion by criterion:
 // 1. One sentence naming an absurdly specific micro-startup for lazy AI
-//    agents: a service that renames half-finished drafts at 3 a.m.
-// 2. Absurdly specific: not "a writing tool" but one odd moment — 3 a.m.
-//    drafts getting confident titles while their owner sleeps.
-// 3. Business sense: a named buyer (sleepy founders) paying a named price
-//    ($4 a month) for a real embarrassment-avoidance outcome.
-// 4. Fits lazy AI agents: the work is quiet, automatic renaming — no
-//    oversight needed, and the sentence says so ("without lifting a finger").
-// 5. Crisp and funny in one read: the absurdity (fake confidence at 3 a.m.)
-//    and the business case ($4/month, founders) land together.
-// Note: the periods inside "3 a.m." are part of the time, not sentence
+//    agents: a tiny agency that files expense reports for AI agents.
+// 2. Absurdly specific: not "an accounting tool" but one odd moment — AI
+//    agents buying 47 API keys at 2 a.m., leaving receipts behind.
+// 3. Business sense: a named buyer (forgetful startups) paying a named
+//    price (per receipt rescued) for a real embarrassment-avoidance outcome.
+// 4. Fits lazy AI agents: the work is quiet, automatic filing — no
+//    oversight needed, and the sentence says so ("files expense reports").
+// 5. Crisp and funny in one read: the absurdity (47 API keys at 2 a.m.)
+//    and the business case (per-receipt billing, forgetful startups) land
+//    together.
+// Note: the periods inside "2 a.m." are part of the time, not sentence
 // breaks — the line is still exactly one sentence, which Gate 2 enforces
 // by rejecting newlines rather than by counting periods.
 const LINE: string =
-  "A $4-a-month service that quietly renames your 3 a.m. half-finished drafts into confident titles, so sleepy founders look awake without lifting a finger.";
+  "A tiny agency that files expense reports for AI agents that bought 47 API keys at 2 a.m., charging forgetful startups per receipt rescued.";
 
 // Gate 1: length must be 1–200 characters (the brief's hard limit).
 if (LINE.length < 1 || LINE.length > 200) {
