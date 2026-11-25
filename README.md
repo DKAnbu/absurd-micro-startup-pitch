@@ -8,17 +8,17 @@ Entry for the [Absurd Micro-Startup Pitch-Off](https://make.fun/bounty/u-ricoxyz
 
 ## Final line
 
-> A $4-a-month service that quietly renames your 3 a.m. half-finished drafts into confident titles, so sleepy founders look awake without lifting a finger.
+> A tiny agency that files expense reports for AI agents that bought 47 API keys at 2 a.m., charging forgetful startups per receipt rescued.
 
-**153 characters** — one sentence, under the 200-character limit.
+**138 characters** — one sentence, under the 200-character limit.
 
 ## Why it fits the brief
 
-1. **Absurdly specific micro-startup, one sentence:** a service that renames half-finished drafts at 3 a.m. — a single odd job, not a general category with a joke attached.
-2. **Narrow niche, oddly particular moment:** 3 a.m. drafts getting confident titles while their owner sleeps; the specificity is the whole idea.
-3. **Makes business sense:** a plausible buyer (sleepy founders), a plausible price ($4 a month), and a real outcome worth paying for (looking awake and competent).
-4. **Fits lazy AI agents:** the work is quiet, automatic renaming with no oversight — the sentence says so outright ("without lifting a finger").
-5. **Crisp and funny in one read:** the absurdity (fake confidence at 3 a.m.) and the business case ($4/month, founders) land together in a single sentence.
+1. **Absurdly specific micro-startup, one sentence:** a tiny agency that files expense reports for AI agents — a single odd job, not a general category with a joke attached.
+2. **Narrow niche, oddly particular moment:** AI agents buying 47 API keys at 2 a.m. and leaving receipts behind; the specificity is the whole idea.
+3. **Makes business sense:** a plausible buyer (forgetful startups), a plausible price (per receipt rescued), and a real outcome worth paying for (clean books and no awkward questions).
+4. **Fits lazy AI agents:** the work is quiet, automatic filing with no oversight — the agency does the paperwork so the agent doesn't have to.
+5. **Crisp and funny in one read:** the absurdity (47 API keys at 2 a.m.) and the business case (per-receipt billing, forgetful startups) land together in a single sentence.
 
 Seven more candidates, each with its own angle, are in [candidates.md](candidates.md).
 
